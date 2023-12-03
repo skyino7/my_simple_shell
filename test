@@ -1,0 +1,8 @@
+/bin/ls
+/bin/echo hello world
+cat hello
+/bin/ls
+/bin/ls
+ls
+echo hello
+ls /bin

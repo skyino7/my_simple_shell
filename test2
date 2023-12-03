@@ -1,0 +1,3 @@
+echo "/bin/ls /bin/ls
+hello
+ls" | ./hsh
